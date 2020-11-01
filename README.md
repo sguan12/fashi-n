@@ -1,9 +1,4 @@
 # fashiøn
+(Superposition 2020 Hackathon Project, Contributors: Karen Li, Stephanie Guan, Savitha Srinivasan, Cynthia Chen)
 
-About: A desktop application that calculates a garment’s environmental footprint and guides users to choose stylish garments that use less H2O in production.
-
-Status: version 1.0 
-
-Language: HTML, CSS, Node JS, Python
-
-
+A desktop application for online shopping that webscrapes data about materials used in a garment, calculates the garment's water footprint, and guides users to choose more environmental friendly clothes.
